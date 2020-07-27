@@ -51,6 +51,6 @@ The initial username and password is "admin" for Grafana.
 * Import Dashboard
 1. Go to `Add your first data source`, click `prometheus` and configure address of server (http://localhost:9090). This will add source.
 2. Click on import
-3. Enter 405 or 1860 as the Grafana id.
+3. Enter 405 or 1860 as the Grafana id. These are two different dashboards freely available online.
 4. Give a unique name and select source as prometheus.
 5. Your dashboard is ready.
